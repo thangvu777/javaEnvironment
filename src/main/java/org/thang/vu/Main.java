@@ -1,3 +1,6 @@
+// Time :
+// Space :
+
 package org.thang.vu;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
